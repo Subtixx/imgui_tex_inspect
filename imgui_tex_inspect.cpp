@@ -3,7 +3,9 @@
 //-------------------------------------------------------------------------
 // [SECTION] INCLUDES
 //-------------------------------------------------------------------------
+#ifndef IMGUI_DEFINE_MATH_OPERATORS
 #define IMGUI_DEFINE_MATH_OPERATORS
+#endif
 #include "imgui_tex_inspect.h"
 #include "imgui_tex_inspect_internal.h"
 
